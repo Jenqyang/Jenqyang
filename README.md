@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Jenqyang
+- 公众号：「ChaosstuffAI」
+
+<div style="text-align: center;">
+  <img src="./images/gongzhonghao.png" width="25%">
+</div>
 
 <!--
 **Jenqyang/Jenqyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
