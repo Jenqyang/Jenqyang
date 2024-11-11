@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jenqyang
+- 👋 Hi, I’m @Jenqyang. A LLM engineer, interested in products, wants to do independent development, and is expanding the technology stack…
 - 公众号：「ChaosstuffAI」
 
 <div style="text-align: center;">
