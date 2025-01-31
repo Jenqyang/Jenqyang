@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/jenqyanghou" target="blank"><img src="https://img.shields.io/twitter/follow/jenqyanghou?logo=twitter&style=for-the-badge" alt="jenqyanghou" /></a> </p>
 
-- 🔭 I’m currently working on [REDnote.cool](https://www.rednote.cool/)
+- 🔭 I’m currently working on [YourAIScroll](https://www.youraiscroll.com/) and [REDnote.cool](https://www.rednote.cool/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
