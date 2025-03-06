@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Visits Badge](https://komarev.com/ghpvc/?username=jenqyang&label=Profile%20views&color=red&style=for-the-badge)](https://www.zhengyang.me)
 [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jenqyanghou)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jenqyanghou@gmail.com)
-[![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](zhengyang.me/wechat)
+[![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)
 [![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed)
 
 - 🔭 I’m currently working on [**12 startups in 12 months**](https://www.zhengyang.me/12-startups-in-12-months).
