@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jenqyanghou@gmail.com)
 [![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)
 [![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on [**12 startups in 12 months**](https://www.zhengyang.me/12-startups-in-12-months).
     - January: [YourAIScroll.com](https://www.youraiscroll.com/)
@@ -39,3 +40,5 @@ Here are some ideas to get you started:
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VSCode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F0781F.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white)](https://www.producthunt.com/@zhengyang_hou) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
