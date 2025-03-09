@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">🤖 AI Stack</h3>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-c87a5b?style=for-the-badge&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white) ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white) ![Windsurf](https://img.shields.io/badge/windsurf-519d8d?style=for-the-badge&logo=codeium&logoColor=white) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-c87a5b?style=for-the-badge&logo=claude&logoColor=white) ![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white) ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white) ![Windsurf](https://img.shields.io/badge/windsurf-519d8d?style=for-the-badge&logo=codeium&logoColor=white)
+
+[![autocomplete](https://codeium.com/badges/user/restfully-breezy-nit-94311/autocomplete)](https://codeium.com/profile/restfully-breezy-nit-94311)
 
 <h3 align="left">💻 Tech Stack</h3>
 
