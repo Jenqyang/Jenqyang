@@ -31,17 +31,17 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning [**Next.js**](https://nextjs.org/)
 - 📝 I regularly write articles on [**zhengyang.me**](https://zhengyang.me/)
 
-<h3 align="left">🤖 AI Stack</h3>
+## 🤖 [𝗔𝗜 𝗦𝘁𝗮𝗰𝗸]()
 
 ![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-c87a5b?style=for-the-badge&logo=claude&logoColor=white) ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white) ![Windsurf](https://img.shields.io/badge/windsurf-519d8d?style=for-the-badge&logo=codeium&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
 
 [![autocomplete](https://codeium.com/badges/user/jenqyang/autocomplete)](https://codeium.com/profile/jenqyang)
 
-<h3 align="left">💻 Tech Stack</h3>
+## 💻 [𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸]()
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white) ![llamaindex](https://img.shields.io/badge/llamaindex-1C3C3C.svg?style=for-the-badge&logo=llamaindex&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-<h3 align="left">🛠️ Tool Stack</h3>
+## 🛠️ [𝗧𝗼𝗼𝗹 𝗦𝘁𝗮𝗰𝗸]()
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VSCode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F0781F.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white)](https://www.producthunt.com/@zhengyang_hou) ![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=Stripe&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
 
