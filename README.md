@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 👇
     - [**YourAIScroll.com**](https://www.youraiscroll.com/)
+    - [**CodeZap.co**](https://www.codezap.co/)
 - 🌱 I'm currently learning [**Next.js**](https://nextjs.org/)
 - 📝 I regularly write articles on [**zhengyang.me**](https://zhengyang.me/)
 
