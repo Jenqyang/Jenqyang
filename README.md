@@ -1,18 +1,3 @@
-<!--
-**Jenqyang/Jenqyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Zhengyang Hou</h1>
 <h4 align="left">I used to be an LLM engineer, now I'm an AI full-stack engineer (both a full-stack engineer and an AI-powered engineer).</h3>
 
@@ -34,13 +19,12 @@ Here are some ideas to get you started:
 
 ## 🤖 [𝗔𝗜 𝗦𝘁𝗮𝗰𝗸]()
 
-![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-c87a5b?style=for-the-badge&logo=claude&logoColor=white) ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white) ![Windsurf](https://img.shields.io/badge/windsurf-519d8d?style=for-the-badge&logo=codeium&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
+![AugmentCode](https://img.shields.io/badge/AugmentCode-0E875B.svg?style=for-the-badge&logo=AugmentCode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-17191D.svg?style=for-the-badge&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-F9F3E9.svg?style=for-the-badge&logo=windsurf&logoColor=black) ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
 
-[![autocomplete](https://codeium.com/badges/user/jenqyang/autocomplete)](https://codeium.com/profile/jenqyang)
 
-## 💻 [𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸]()
+## 💻 [𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸]()
 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white) ![llamaindex](https://img.shields.io/badge/llamaindex-1C3C3C.svg?style=for-the-badge&logo=llamaindex&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white) ![llamaindex](https://img.shields.io/badge/llamaindex-1C3C3C.svg?style=for-the-badge&logo=llamaindex&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white) ![uv](https://img.shields.io/badge/uv-DE5FE9.svg?style=for-the-badge&logo=uv&logoColor=white) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000.svg?style=for-the-badge&logo=Model-Context-Protocol&logoColor=white)
 
 ## 🛠️ [𝗧𝗼𝗼𝗹 𝗦𝘁𝗮𝗰𝗸]()
 
