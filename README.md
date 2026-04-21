@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=jenqyang&label=Profile%20views&color=red&style=for-the-badge)](https://www.zhengyang.me) [![Wakatime](https://wakatime.com/badge/user/085f67ab-f0e9-47f5-9020-06a13c336e51.svg?style=for-the-badge)](https://wakatime.com/@085f67ab-f0e9-47f5-9020-06a13c336e51) [![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-Founder & builder. Writing about AI-first products, agents, and the taste and judgment that the next decade will reward at [**zhengyanghou.substack.com**](https://zhengyanghou.substack.com/)
+### Founder & builder. Writing about AI-first products, agents, and the taste and judgment that the next decade will reward at [**zhengyanghou.substack.com**](https://zhengyanghou.substack.com/)
 
 - 🔭 I’m currently working on 👇
     - [**YourAIScroll.com**](https://www.youraiscroll.com/)
