@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Zhengyang Hou</h1>
-<h4 align="left">I used to be an LLM engineer, now I'm an AI full-stack engineer (both a full-stack engineer and an AI-powered engineer).</h3>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=jenqyang&label=Profile%20views&color=red&style=for-the-badge)](https://www.zhengyang.me)
-[![Wakatime](https://wakatime.com/badge/user/085f67ab-f0e9-47f5-9020-06a13c336e51.svg?style=for-the-badge)](https://wakatime.com/@085f67ab-f0e9-47f5-9020-06a13c336e51)
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+[![Visits Badge](https://komarev.com/ghpvc/?username=jenqyang&label=Profile%20views&color=red&style=for-the-badge)](https://www.zhengyang.me) [![Wakatime](https://wakatime.com/badge/user/085f67ab-f0e9-47f5-9020-06a13c336e51.svg?style=for-the-badge)](https://wakatime.com/@085f67ab-f0e9-47f5-9020-06a13c336e51) [![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jenqyanghou)
-[![Xiaohongshu](https://img.shields.io/badge/Xiaohongshu-FF2442.svg?style=for-the-badge&logo=Xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/671e4245000000001d0218f4)
-[![WeChat Badge](https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white)](https://www.zhengyang.me/wechat)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jenqyanghou@gmail.com)
-[![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed)
+Founder & builder. Writing about AI-first products, agents, and the taste and judgment that the next decade will reward at [**zhengyanghou.substack.com**](https://zhengyanghou.substack.com/)
 
 - 🔭 I’m currently working on 👇
     - [**YourAIScroll.com**](https://www.youraiscroll.com/)
-    - [**CodeZap.co**](https://www.codezap.co/)
+    - [**Memory Sync**](https://mem-sync.kareverie.com/)
+    - [**Sayge AI**](https://sayge.app/)
 - 🌱 I'm currently learning [**Next.js**](https://nextjs.org/)
 - 📝 I regularly write articles on [**zhengyang.me**](https://zhengyang.me/)
 
 ## 🤖 [𝗔𝗜 𝗦𝘁𝗮𝗰𝗸]()
+
+**Now**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white) [![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35.svg?style=for-the-badge&logo=openclaw&logoColor=white)](https://openclaw.ai/)
+
+**Before**
 
 ![AugmentCode](https://img.shields.io/badge/AugmentCode-0E875B.svg?style=for-the-badge&logo=AugmentCode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-17191D.svg?style=for-the-badge&logo=cursor&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-F9F3E9.svg?style=for-the-badge&logo=windsurf&logoColor=black) ![v0](https://img.shields.io/badge/v0-000000.svg?style=for-the-badge&logo=v0&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white)
 
@@ -28,7 +28,7 @@
 
 ## 🛠️ [𝗧𝗼𝗼𝗹 𝗦𝘁𝗮𝗰𝗸]()
 
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VSCode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F0781F.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white)](https://www.producthunt.com/@zhengyang_hou) ![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=Stripe&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=Obsidian&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=VSCode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F0781F.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F.svg?style=for-the-badge&logo=Product-Hunt&logoColor=white)](https://www.producthunt.com/@zhengyang_hou) [![Hacker News](https://img.shields.io/badge/Hacker%20News-FF6600.svg?style=for-the-badge&logo=Y-Combinator&logoColor=white)](https://news.ycombinator.com/) ![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=Stripe&logoColor=white) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black)](https://buymeacoffee.com/zhengyanghou)
 
 <h3 align="left">📊 Weekly development breakdown</h3>
 
