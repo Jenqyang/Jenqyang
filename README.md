@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zhengyang Hou</h1>
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=jenqyang&label=Profile%20views&color=red&style=for-the-badge)](https://www.zhengyang.me) [![Wakatime](https://wakatime.com/badge/user/085f67ab-f0e9-47f5-9020-06a13c336e51.svg?style=for-the-badge)](https://wakatime.com/@085f67ab-f0e9-47f5-9020-06a13c336e51) [![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+[![Visits Badge](https://komarev.com/ghpvc/?username=jenqyang&label=Profile%20views&color=red&style=for-the-badge)](https://www.zhengyang.me) [![Wakatime](https://wakatime.com/badge/user/085f67ab-f0e9-47f5-9020-06a13c336e51.svg?style=for-the-badge)](https://wakatime.com/@085f67ab-f0e9-47f5-9020-06a13c336e51) [![Substack Badge](https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white)](https://zhengyanghou.substack.com/) [![RSS Badge](https://img.shields.io/badge/RSS-FFA500.svg?style=for-the-badge&logo=RSS&logoColor=white)](https://www.zhengyang.me/feed) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-### Founder & builder. Writing about AI-first products, agents, and the taste and judgment that the next decade will reward at [**zhengyanghou.substack.com**](https://zhengyanghou.substack.com/)
+### Design products that feel inevitable to users.
 
 - 🔭 I’m currently working on 👇
     - [**YourAIScroll.com**](https://www.youraiscroll.com/)
     - [**Memory Sync**](https://mem-sync.kareverie.com/)
     - [**Sayge AI**](https://sayge.app/)
-- 🌱 I'm currently learning [**Next.js**](https://nextjs.org/)
-- 📝 I regularly write articles on [**zhengyang.me**](https://zhengyang.me/)
 
 ## 🤖 [𝗔𝗜 𝗦𝘁𝗮𝗰𝗸]()
 
