@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on 👇
     - [**YourAIScroll.com**](https://www.youraiscroll.com/)
     - [**Memory Sync**](https://mem-sync.kareverie.com/)
-    - [**Sayge AI**](https://sayge.app/)
+    - [**VersusKit**](https://versuskit.com/)
 
 ## 🤖 [𝗔𝗜 𝗦𝘁𝗮𝗰𝗸]()
 
